@@ -1,5 +1,7 @@
 # Word Hunt / Boggle Solver
 
+![Wordhunt example](https://private-user-images.githubusercontent.com/23235841/553257112-50f798fc-0072-46e7-9288-2397fc2c4f9c.jpg)
+
 Frustrated that a certain word hunt implementation requires _Premium_ to view
 the longest words afterwards, I wrote this solver in the middle of a random
 night.
